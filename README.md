@@ -4,7 +4,7 @@
 
  Mijn naam is **Gianni de Weerd.**
 
- Mijn hobbies zijn _voetal_, games en ~~anime.~~
+ Mijn hobbies zijn _voetbal_, games en ~~anime.~~
 
  Veder heb ik **niet** echt iets om te delen.
 
