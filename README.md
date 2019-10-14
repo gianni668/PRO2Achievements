@@ -1,4 +1,4 @@
-⋅⋅* MARK ME DOWN!
+..* MARK ME DOWN!
 
 # H1 Ik denk dat dit zo werkt, niet zeker tho.
 
@@ -8,5 +8,5 @@
 
 #### Veder heb ik **niet** echt iets om te delen.
 
-##### ⋅⋅*Cya
+##### Cya
 
